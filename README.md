@@ -38,7 +38,7 @@ The functional and non-functional requirements for the project are as follows:
 - Create calculated columns and key measures to enhance dataset quality.
 
 ### Report Development
-- High-Level Metrics: Add a summary view showing important data points for decision making.
+- High-Level Metrics: Add a summary view showing important data points for decision-making.
 - Order Monitoring: Create visuals to monitor orders per product, per customer, and over time.
 - Product Monitoring: Create visuals to display insights about product offerings, using 3 metrics.
 - Filtering: Implement filters for product category, customer, and order number.
@@ -47,4 +47,11 @@ The functional and non-functional requirements for the project are as follows:
 This ReadMe file provides an overview of the EcoPower Logistics project, including prerequisites, requirements, and instructions for setting up and developing the Power BI report. Follow the guidelines and refer to the ReadMe.md for ongoing updates and documentation throughout the project.
 
 # References
-- 
+- 12 October CMPG323 weekly virtual class Data Visualisation (2023). YouTube. 13 October. Available at: https://www.youtube.com/watch?v=gv58fGGgRQs&amp;ab_channel=CMPG323-ITDevelopments (Accessed: 14 October 2023). 
+- 12 October Project 5 Introduction (2023). YouTube. 11 October. Available at: https://www.youtube.com/watch?v=HrPipzMA5gk&amp;ab_channel=CMPG323-ITDevelopments (Accessed: 12 October 2023). 
+- How To Create these useful Power Bi Visuals that Excel Lacks (2022). YouTube. 3 November. Available at: https://www.youtube.com/watch?v=GpP0EbSMRpg&amp;ab_channel=LeilaGharani (Accessed: 22 October 2023). 
+- How to use Microsoft Power BI - Tutorial for Beginners (2020). YouTube. 4 August. Available at: https://www.youtube.com/watch?v=TmhQCQr_DCA&amp;ab_channel=KevinStratvert (Accessed: 26 October 2023). 
+- Power BI Tutorial for Beginners (2023). YouTube. 6 June. Available at: https://www.youtube.com/watch?v=NNSHu0rkew8&amp;ab_channel=KevinStratvert (Accessed: 21 October 2023). 
+- Sales Dashboard in Power BI | Power BI Dashboard (2021). YouTube. 27 November. Available at: https://www.youtube.com/watch?v=CGgXHsD19Ek (Accessed: 25 October 2023). 
+- Top 5 Awesome Power BI Visuals You Probably Didn’t Know (2023). YouTube. 12 March. Available at: https://www.youtube.com/watch?v=TCbI5k3OPEU&amp;ab_channel=KenjiExplains (Accessed: 24 October 2023). 
+- Want a BEAUTIFUL Power BI Report? Start here! (2023). YouTube. 11 May. Available at: https://www.youtube.com/watch?v=pKkav_W-jiQ&amp;ab_channel=GuyinaCube (Accessed: 24 October 2023). 
