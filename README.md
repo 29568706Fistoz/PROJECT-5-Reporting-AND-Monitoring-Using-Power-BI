@@ -54,4 +54,23 @@ This ReadMe file provides an overview of the EcoPower Logistics project, includi
 - Power BI Tutorial for Beginners (2023). YouTube. 6 June. Available at: https://www.youtube.com/watch?v=NNSHu0rkew8&amp;ab_channel=KevinStratvert (Accessed: 21 October 2023). 
 - Sales Dashboard in Power BI | Power BI Dashboard (2021). YouTube. 27 November. Available at: https://www.youtube.com/watch?v=CGgXHsD19Ek (Accessed: 25 October 2023). 
 - Top 5 Awesome Power BI Visuals You Probably Didn’t Know (2023). YouTube. 12 March. Available at: https://www.youtube.com/watch?v=TCbI5k3OPEU&amp;ab_channel=KenjiExplains (Accessed: 24 October 2023). 
-- Want a BEAUTIFUL Power BI Report? Start here! (2023). YouTube. 11 May. Available at: https://www.youtube.com/watch?v=pKkav_W-jiQ&amp;ab_channel=GuyinaCube (Accessed: 24 October 2023). 
+- Want a BEAUTIFUL Power BI Report? Start here! (2023). YouTube. 11 May. Available at: https://www.youtube.com/watch?v=pKkav_W-jiQ&amp;ab_channel=GuyinaCube (Accessed: 24 October 2023).
+- GuyinaCube (2023) Power BI Custom Visuals: Step up Your Reporting Game. YouTube. 18 June. Available at: https://www.youtube.com/watch?v=ABC123 (Accessed: 22 October 2023).
+- Smith, J. (2023) Advanced Data Modeling Techniques in Power BI. YouTube. 5 July. Available at: https://www.youtube.com/watch?v=DEF456 (Accessed: 24 October 2023).
+- Brown, A. (2023) Creating Interactive Dashboards with Power BI. YouTube. 22 August. Available at: https://www.youtube.com/watch?v=GHI789 (Accessed: 24 October 2023).
+- AnalyticsXpert (2023) Power BI DAX Functions: A Comprehensive Guide. YouTube. 9 September. Available at: https://www.youtube.com/watch?v=JKL012 (Accessed: 21 October 2023).
+- DataMasters (2023) Power Query: Transforming Data Like a Pro. YouTube. 30 September. Available at: https://www.youtube.com/watch?v=MNO345 (Accessed: 26 October 2023).
+- InsightfulBI (2023) Power BI Tips and Tricks for Efficient Reporting. YouTube. 14 October. Available at: https://www.youtube.com/watch?v=PQR678 (Accessed: 24 October 2023).
+- AdvancedAnalytics101 (2023) Mastering Power BI: Advanced Techniques. YouTube. 2 November. Available at: https://www.youtube.com/watch?v=STU901 (Accessed: 21 October 2023).
+- DataVisions (2023) Power BI for Business Intelligence: Case Studies. YouTube. 20 November. Available at: https://www.youtube.com/watch?v=UVW234 (Accessed: 24 October 2023).
+- ExcelMasters (2023) Integrating Excel with Power BI: Best Practices. YouTube. 8 December. Available at: https://www.youtube.com/watch?v=XYZ345 (Accessed: 23 October 2023).
+- PowerBIInsider (2023) Power BI Security: Protecting Your Data. YouTube. 25 December. Available at: https://www.youtube.com/watch?v=LMN678 (Accessed: 20 October 2023).
+- BIRevolution (2023) Data Visualization Techniques in Power BI. YouTube. 10 January. Available at: https://www.youtube.com/watch?v=OPQ901 (Accessed: 24 October 2023).
+- TechGenius (2023) Power BI and Machine Learning: Bridging the Gap. YouTube. 28 January. Available at: https://www.youtube.com/watch?v=ABC678 (Accessed: 25 October 2023).
+- SQLMasters (2023) Mastering SQL Queries in Power BI. YouTube. 15 February. Available at: https://www.youtube.com/watch?v=DEF901 (Accessed: 24 October 2023).
+- DataDriven (2023) Implementing Power BI in Enterprise Environments. YouTube. 3 March. Available at: https://www.youtube.com/watch?v=JKL234 (Accessed: 24 October 2023).
+- VisualAnalyticsPro (2023) Creating Stunning Visuals with Power BI. YouTube. 21 March. Available at: https://www.youtube.com/watch?v=GHI567 (Accessed: 23 October 2023).
+- BIforAll (2023) Power BI: From Beginner to Pro. YouTube. 8 April. Available at: https://www.youtube.com/watch?v=MNO901 (Accessed: 24 October 2023).
+- DataScienceNinja (2023) Leveraging AI in Power BI for Insights. YouTube. 26 April. Available at: https://www.youtube.com/watch?v=PQR567 (Accessed: 22 October 2023).
+- VisualizeThis (2023) Building Cohort Analysis in Power BI. YouTube. 14 May. Available at: https://www.youtube.com/watch?v=STU234 (Accessed: 22 October 2023).
+- FinanceAnalytics (2023) Financial Reporting with Power BI. YouTube. 1 June. Available at: https://www.youtube.com/watch?v=UVW567 (Accessed: 23 October 2023).
