@@ -1,5 +1,3 @@
-# CMPG-323-Project-5-29568706
-
 # EcoPower Logistics Report README
 ## Overview
 EcoPower Logistics offers comprehensive logistics solutions for acquiring, storing, and transporting resources and goods globally. The logistics management system handles order processing, while the warehouse serves as a secure storage facility. The data stored can be shared through visualizations built into a report or dashboard. The report, built in Power BI, allows stakeholders to access information on customer and order status. As a member of the COI development team, you will create this report.
